@@ -1,0 +1,18 @@
+const useStyles = makeStyles({
+        root: {
+          position: "relative",
+          backgroundColor: "transparent",
+          display: "flex",
+          flexDirection: "column",
+          alignItems: "center",
+          justifyContent: "center",
+          backgroundImage:"https://source.unsplash.com/random"
+        },
+        image: {
+            position: "absolute",
+            top: 0,
+            right: 0,
+            height: "100%",
+            width: "100%"
+          }
+      });

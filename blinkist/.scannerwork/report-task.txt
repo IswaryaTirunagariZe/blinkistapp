@@ -1,0 +1,7 @@
+organization=iswaryatirunagarize
+projectKey=IswaryaTirunagariZe_blinkistapp
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.21709
+dashboardUrl=https://sonarcloud.io/dashboard?id=IswaryaTirunagariZe_blinkistapp
+ceTaskId=AXqeJKukhLK6o3fsscgn
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXqeJKukhLK6o3fsscgn

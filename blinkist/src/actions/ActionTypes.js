@@ -1,0 +1,6 @@
+export const ADD_TO_LIBRARY = 'ADD_TO_LIBRARY'
+export const ADD_BOOK_TO_LIST = 'ADD_BOOK_TO_LIST'
+export const FINISH_READING = 'FINISH_READING'
+export const READ_AGAIN = 'READ_AGAIN'
+export const SEARCH_BOOKS = 'SEARCH_BOOKS'
+export const GET_ALL_BOOKS = 'GET_ALL_BOOKS'

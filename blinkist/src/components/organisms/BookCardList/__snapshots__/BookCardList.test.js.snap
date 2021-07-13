@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Book Cards List Renders Book Cards List 1`] = `ShallowWrapper {}`;
